@@ -1,0 +1,3 @@
+aienv/
+*.pyc
+__pycache__/
